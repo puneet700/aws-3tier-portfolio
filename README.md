@@ -1,4 +1,4 @@
-Deployment of 3-Tier Applications Using AWS Services [cite: 4]
+Deployment of 3-Tier Applications Using AWS Services 
 
 📌 Overview
 This project successfully demonstrates the deployment of a Highly Available 3-Tier Architecture on AWS. It utilizes industry best practices, secure networking, and scalable infrastructure components to run a full-stack application.
